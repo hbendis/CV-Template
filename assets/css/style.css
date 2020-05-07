@@ -1,4 +1,11 @@
-
+/* =======================================================================
+Template Name: Dil Hospital
+Author:  SmartEye Adminpanel
+Author URI: www.smarteyeapps.com
+Version: 1.0
+coder name:Prabin Raja
+Description: This Template is created for web template
+======================================================================= */
 /* ===================================== Import Less ================================== */
 @font-face {
   font-family: 'mouse-300';
@@ -220,7 +227,7 @@ body {
   .profile-box .left-side {
     background-color: #00ab9f;
     color: #FFF;
-    padding: 40px 25px; }
+    padding: 40px 20px; }
     .profile-box .left-side .profile-info {
       padding: 5px;
       box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
